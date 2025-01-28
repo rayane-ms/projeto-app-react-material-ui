@@ -1,15 +1,5 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# ✏️ Projeto React.js + Material UI
 
-Projeto criado com as bibliotecas React JS e Material UI.
+## 📑 Descrição do Projeto:
 
-## Passo-a-passo para execução
-
-1. Clonar o repositório
-2. Localmente, entrar na pasta do projeto e instalar as dependências:
-   `
-   npm install
-   `
-3. Executar a aplicação:
-   `
-   npm start
-   `
+Criação de uma aplicação para gerenciamento de projetos e tarefas com o uso do React.js, para desenvolver o app, e da biblioteca Material UI + CSS, para criação dos estilos da aplicação.
